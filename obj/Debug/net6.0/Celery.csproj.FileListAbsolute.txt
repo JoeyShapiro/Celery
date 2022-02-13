@@ -1,0 +1,15 @@
+/Users/oniichan/Documents/Code/Celery/bin/Debug/net6.0/Celery
+/Users/oniichan/Documents/Code/Celery/bin/Debug/net6.0/Celery.deps.json
+/Users/oniichan/Documents/Code/Celery/bin/Debug/net6.0/Celery.runtimeconfig.json
+/Users/oniichan/Documents/Code/Celery/bin/Debug/net6.0/Celery.dll
+/Users/oniichan/Documents/Code/Celery/bin/Debug/net6.0/ref/Celery.dll
+/Users/oniichan/Documents/Code/Celery/bin/Debug/net6.0/Celery.pdb
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/Celery.csproj.AssemblyReference.cache
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/Celery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/Celery.AssemblyInfoInputs.cache
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/Celery.AssemblyInfo.cs
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/Celery.csproj.CoreCompileInputs.cache
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/Celery.dll
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/ref/Celery.dll
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/Celery.pdb
+/Users/oniichan/Documents/Code/Celery/obj/Debug/net6.0/Celery.genruntimeconfig.cache
